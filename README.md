@@ -8,8 +8,14 @@ In each directory there's a summary of the results as a "summary.md"
 5. TW10= Clustering
 
 -----
+# Data Analysis Project (DAP)
 1. DAP2 = Initial research, and data cleaning
 2. DAP3 = Construct classification model, evaluate
 3. DAP4 = Construct regression models, evaluate
 4. DAP5 = Construct Neural Network model, evaluate
 5. DAP6 = Refine ML project
+
+-----
+PS1 = explore data on covid19 dataset with visualization and linear regression
+PS2 = Decision tree classification 
+PS3 = KNN & Naive Bayesian
