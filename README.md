@@ -16,6 +16,6 @@ In each directory there's a summary of the results as a "summary.md"
 5. DAP6 = Refine ML project
 
 -----
-PS1 = explore data on covid19 dataset with visualization and linear regression
-PS2 = Decision tree classification 
-PS3 = KNN & Naive Bayesian
+1. PS1 = explore data on covid19 dataset with visualization and linear regression
+2. PS2 = Decision tree classification 
+3. PS3 = KNN & Naive Bayesian
