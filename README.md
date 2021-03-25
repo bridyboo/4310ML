@@ -1,2 +1,2 @@
-# 4310ML
-Machine Learning course 
+Machine Learning practice
+
