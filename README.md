@@ -1,5 +1,5 @@
 # Machine Learning practice with Python
-In each directory there's a summary of the results as a "summary.md"
+In each directory there's a summary of the results as a "README.md"
 
 1. TW4 = K-nearest neighbor
 2. TW6 = Linear Regression
