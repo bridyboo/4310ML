@@ -1,0 +1,1 @@
+I learned that cleaning data on jupyter directly may not be the best approach, I will probably be doing this on an IDE like spyder or pycharm. I also learned that there are many steps in data cleaning and there are many ways to tackle an invalid or missing value. Discussing how to impute them is very important since randomly imputing it doesn't really help the situation.
