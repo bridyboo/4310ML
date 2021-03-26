@@ -1,0 +1,2 @@
+Summary : 
+Naïve Bayes is much faster than KNN, since Naïve Bayes is a linear classifier. KNN requires a lot of calculation. Naïve Bayes also allows two hyperparameters to tune and smooth: alpha and beta. Knn can only alter its “K”. Knn however doesn’t require any training just loading the dataset is enough. Knn also outperforms when there is rare occurrences. Naïve Bayes is also not affected by curse of dimensionality and large feature sets. KNN is also  convenient that you don’t need to know anything about the underlying data or probability distributions. 
